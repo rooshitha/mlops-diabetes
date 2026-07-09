@@ -1,28 +1,19 @@
-# Virtual Environment
+# Virtual environments
 .venv/
 venv/
+venvdir/
 
-# Python
+# Python cache
 __pycache__/
 *.pyc
-*.pyo
 
-# MLflow
-mlruns/
-
-# Logs
-logs/
-*.log
-
-# Artifacts
+# ML artifacts
 artifacts/
+mlruns/
+mlflow.db
 
 # VS Code
 .vscode/
 
-# Pytest
-.pytest_cache/
-
-# OS
-.DS_Store
-Thumbs.db
+# Jupyter
+.ipynb_checkpoints/
