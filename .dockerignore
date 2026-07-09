@@ -1,0 +1,16 @@
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+
+.git/
+.gitignore
+
+logs/
+
+mlruns/
+
+.vscode/
+
+README.md
