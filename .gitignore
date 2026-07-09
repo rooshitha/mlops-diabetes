@@ -12,8 +12,8 @@ artifacts/
 mlruns/
 mlflow.db
 
+# Logs
+logs/
+
 # VS Code
 .vscode/
-
-# Jupyter
-.ipynb_checkpoints/
